@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/-React-_live_website/static/css/main.4f727191.chunk.css",
+    "main.js": "/-React-_live_website/static/js/main.921d559a.chunk.js",
+    "main.js.map": "/-React-_live_website/static/js/main.921d559a.chunk.js.map",
+    "runtime-main.js": "/-React-_live_website/static/js/runtime-main.c3b70299.js",
+    "runtime-main.js.map": "/-React-_live_website/static/js/runtime-main.c3b70299.js.map",
+    "static/js/2.412263c6.chunk.js": "/-React-_live_website/static/js/2.412263c6.chunk.js",
+    "static/js/2.412263c6.chunk.js.map": "/-React-_live_website/static/js/2.412263c6.chunk.js.map",
+    "index.html": "/-React-_live_website/index.html",
+    "precache-manifest.8fb7bd8c9c1b47c0791b70efedcd0ea5.js": "/-React-_live_website/precache-manifest.8fb7bd8c9c1b47c0791b70efedcd0ea5.js",
+    "service-worker.js": "/-React-_live_website/service-worker.js",
+    "static/css/main.4f727191.chunk.css.map": "/-React-_live_website/static/css/main.4f727191.chunk.css.map",
+    "static/js/2.412263c6.chunk.js.LICENSE.txt": "/-React-_live_website/static/js/2.412263c6.chunk.js.LICENSE.txt",
+    "static/media/Sahadeb_Rokaya_cv.pdf": "/-React-_live_website/static/media/Sahadeb_Rokaya_cv.542955c7.pdf",
+    "static/media/algo.svg": "/-React-_live_website/static/media/algo.f5711eaa.svg",
+    "static/media/api.svg": "/-React-_live_website/static/media/api.63f68ccc.svg",
+    "static/media/backend.svg": "/-React-_live_website/static/media/backend.a42040d5.svg",
+    "static/media/computer.svg": "/-React-_live_website/static/media/computer.ca042db5.svg",
+    "static/media/facebook.svg": "/-React-_live_website/static/media/facebook.0a27bbff.svg",
+    "static/media/github.svg": "/-React-_live_website/static/media/github.cbc38ef1.svg",
+    "static/media/instagram.svg": "/-React-_live_website/static/media/instagram.d08bce0d.svg",
+    "static/media/mightycoder.svg": "/-React-_live_website/static/media/mightycoder.a13311a3.svg",
+    "static/media/pin.svg": "/-React-_live_website/static/media/pin.64c56c72.svg",
+    "static/media/puzzle.svg": "/-React-_live_website/static/media/puzzle.b5fac2be.svg",
+    "static/media/python.svg": "/-React-_live_website/static/media/python.26c488dd.svg",
+    "static/media/react.svg": "/-React-_live_website/static/media/react.2e01c74f.svg",
+    "static/media/repair.svg": "/-React-_live_website/static/media/repair.1464053c.svg",
+    "static/media/tie.svg": "/-React-_live_website/static/media/tie.4a04f9f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b70299.js",
+    "static/js/2.412263c6.chunk.js",
+    "static/css/main.4f727191.chunk.css",
+    "static/js/main.921d559a.chunk.js"
+  ]
+}
